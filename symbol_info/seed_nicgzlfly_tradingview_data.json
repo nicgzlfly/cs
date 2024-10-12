@@ -1,0 +1,19 @@
+{
+   "symbol": [
+      "SPX_OPTION_MATRIX",
+      "VIX_OPTION_MATRIX",
+      "SPY_OPTION_MATRIX",
+      "DMA_GEX",
+      "21DMA_GEX",
+      "DEMO"
+   ],
+   "pricescale": [10, 10, 10,100,100,100],
+   "description": [
+      "SPX_OPTION MATRIX",
+      "VIX_OPTION MATRIX",
+      "SPY_OPTION MATRIX",
+      "DMA_GEX",
+      "21DMA_GEX",
+      "Demo symbol description"
+   ]
+}
